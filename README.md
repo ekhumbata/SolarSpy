@@ -1,5 +1,5 @@
 # SolarSpy
-## An SMS monitoring service for a solar farm powered by Raspberry Pi Pico W
+## An SMS monitoring service for a solar farm powered by Raspberry Pi Pico W.
 
 ![Solar_Spy](https://user-images.githubusercontent.com/32437288/221443565-12601262-85ef-4f69-9482-559c4ed8bda8.jpg)
 
